@@ -21,7 +21,7 @@ Este es el contenido del apartado 1
 
 Este es el contenido del apartado 2
 
-## Cabecera 3 
+## Cabecera3
 
 ...kotlin
 fun main () {

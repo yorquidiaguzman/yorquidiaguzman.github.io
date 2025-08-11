@@ -41,7 +41,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
     title: 'Yorquidia Guzmán Guzmán',
-    subtitle: 'Desarrolladora Full Stack' ,
+    subtitle: 'Desarrolladora Full Stack',
     description: 'Porfolio profesional de Yorquidia Guzmán Guzmán 💻',
     image: {
         src: '/dante-preview.jpg',
@@ -90,8 +90,8 @@ const siteConfig: SiteConfig = {
         },
     ],
     hero: {
-        title: 'Yorquidia Guzmán Guzmán',
-        text: " ¡Hola! Soy Yorquidia, una desarrolladora full stack que se entusiasma con la creación de soluciones tecnológicas. Mi experiencia abarca tanto el front-end como el back-end, utilizando tecnologías como React, JavaScript, HTML/CSS para construir interfaces dinámicas y Node.js, Python, SQL para gestionar la lógica del servidor y las bases de datos. Te invito a echar un vistazo a mis proyectos para que conozcas mi trabajo y a conectar conmigo en <a href='https://github.com/yorquidiaguzman'>GitHub</a> o a contactarme en <a href='https://linkedin.com/in/yorquidia-guzman-guzman'>Linkedin/X</a>.",
+        title: 'Sobre mí',
+        text: " ¡Hola! Soy Yorquidia, una desarrolladora full stack que se entusiasma con la creación de soluciones tecnológicas. Mi experiencia abarca tanto el front-end como el back-end, utilizando tecnologías como React, JavaScript, HTML/CSS para construir interfaces dinámicas y Node.js, Python, SQL para gestionar la lógica del servidor y las bases de datos. Te invito a echar un vistazo a mis proyectos para que conozcas mi trabajo en <a href='https://github.com/yorquidiaguzman'>GitHub</a> y a conectar y/o conectar conmigo en <a href='https://linkedin.com/in/yorquidia-guzman-guzman'>Linkedin/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'

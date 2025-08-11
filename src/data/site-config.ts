@@ -91,21 +91,21 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Sobre mí',
-        text: " ¡Hola! Soy Yorquidia, una desarrolladora full stack que se entusiasma con la creación de soluciones tecnológicas. Mi experiencia abarca tanto el front-end como el back-end, utilizando tecnologías como React, JavaScript, HTML/CSS para construir interfaces dinámicas y Node.js, Python, SQL para gestionar la lógica del servidor y las bases de datos. Te invito a echar un vistazo a mis proyectos para que conozcas mi trabajo en <a href='https://github.com/yorquidiaguzman'>GitHub</a> y a conectar y/o conectar conmigo en <a href='https://linkedin.com/in/yorquidia-guzman-guzman'>Linkedin/X</a>.",
+        text: " ¡Hola! Soy Yorquidia, una desarrolladora full stack que se entusiasma con la creación de soluciones tecnológicas. Mi experiencia abarca tanto el front-end como el back-end, utilizando tecnologías como React, JavaScript, HTML/CSS para construir interfaces dinámicas y Node.js, Python, SQL para gestionar la lógica del servidor y las bases de datos. Te invito a echar un vistazo a mis proyectos para que conozcas mi trabajo en <a href='https://github.com/yorquidiaguzman'>GitHub</a> y a conectar y/o contactar conmigo en <a href='https://linkedin.com/in/yorquidia-guzman-guzman'>Linkedin/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Contacto',
                 href: '/contact'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'No dudes en contactarme',
+        text: 'Si necesitas más información, escribe tu correo aquí y te contactaré en cuanto pueda',
         formUrl: '#'
     },
     postsPerPage: 8,

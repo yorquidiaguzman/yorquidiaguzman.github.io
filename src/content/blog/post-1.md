@@ -1,6 +1,6 @@
 ---
-title: Muentra de SQL
-excerpt: Esto es una muestra de los conocimientos en SQL
+title: Curriculum 
+excerpt: 
 publishDate: 'Aug 11 2025'
 tags:
   - Android
@@ -13,11 +13,11 @@ seo:
 
 Este es el contenido del blog
 
-# Cabecera 1 
+# Curriculum en español 
 
 Este es el contenido del apartado 1
 
-## Cabecera 2
+## Curriculum in English
 
 Este es el contenido del apartado 2
 

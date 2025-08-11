@@ -41,8 +41,8 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     website: 'https://example.com',
     title: 'Yorquidia Guzmán Guzmán',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'Desarrolladora Full Stack' ,
+    description: 'Porfolio profesional de Yorquidia Guzmán Guzmán 💻',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -61,45 +61,37 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
-        }
+            text: 'Github',
+            href: 'https://github.com/yorquidiaguzman'
+        },
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Sobre mí',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Términos',
             href: '/terms'
         },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Linkedin',
+            href: 'https://linkedin.com/in/yorquidia-guzman-guzman'
         },
         {
             text: 'Instagram',
             href: 'https://instagram.com/'
         },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Yorquidia Guzmán Guzmán',
+        text: " ¡Hola! Soy Yorquidia, una desarrolladora full stack que se entusiasma con la creación de soluciones tecnológicas. Mi experiencia abarca tanto el front-end como el back-end, utilizando tecnologías como React, JavaScript, HTML/CSS para construir interfaces dinámicas y Node.js, Python, SQL para gestionar la lógica del servidor y las bases de datos. Te invito a echar un vistazo a mis proyectos para que conozcas mi trabajo y a conectar conmigo en <a href='https://github.com/yorquidiaguzman'>GitHub</a> o a contactarme en <a href='https://linkedin.com/in/yorquidia-guzman-guzman'>Linkedin/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
